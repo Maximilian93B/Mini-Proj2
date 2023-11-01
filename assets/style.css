@@ -1,2 +1,68 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    font-family: ;
+    background-color: ;
+    margin: ;
+    padding: ;
 
 
+}
+
+header {
+
+    background-color: ;
+    color: ;
+    text-align: ;
+    padding: ;
+}
+
+header h1 {
+    font-size: ;
+    margin: ;
+}
+
+header p {
+    font-size: ;
+    margin: ;
+}
+
+main{
+    padding: ;
+
+
+
+}
+
+section {
+
+
+    background-color: ;
+    border: ;
+    border-radius: ;
+    padding: ;
+    margin-bottom: ;
+}
+
+
+h2 { 
+
+
+    font-size: ;
+    margin: ;
+    color: ;
+}
+
+h3{
+    font-size: ;
+    margin: ;
+    color: ;
+
+
+
+
+}
